@@ -1,2 +1,2 @@
 # api-gateway
-Gateway responsible for the entire ead workflow
+Service responsible for being the only entry point to access the ead system microservices
